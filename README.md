@@ -32,3 +32,4 @@ This is ideal for beginners and intermediate ML learners who want to develop an 
 - Use **L2 (Ridge)** when:
   - You want to penalize large coefficients but keep all features
   - Your features are correlated (multicollinearity)
+  - 
